@@ -2,12 +2,11 @@
 
 ## GOAL
 
-- My goal is to learn AI engineer as a backend Java developer 
+- Become a production-grade AI / GenAI Engineer and land a role by May 2027
 - I am a Java developer with 3.5+ years of experience in different tools and technologies
 
 ## weekly plan 
 
-- 5 DSA questions 
-- Python deep and data structures 
-- Understand the control flows and loops in python 
-- Classes and objects
+- 28 h/week, 3 h weekdays 
+- 6.5 h weekends (build, code review, mock interview)
+- 6 Neet code problems for week
